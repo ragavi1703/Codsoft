@@ -1,0 +1,113 @@
+body{
+  
+    background-color: #F1B4BB;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Nunito Sans", sans-serif;
+}
+.bigbox{
+    
+    background-image: url('wallpaper\ codsoft.jpg');
+    background-size: 80%;
+    background-position: right;
+    display:flex;
+    background-color:#FFE4D6;
+    height: 500px;
+    margin-top: 45px;
+
+}
+.box{
+    display:flex;
+    height: 300px;
+    background-color:#FFE4D6;
+}
+.text{
+  font-size: 33px;
+    margin-left: 65px;
+    margin-top: 150px;
+    position:absolute;
+}
+.text1{
+  margin-left: 65px;
+  margin-top: 150px;
+  position:absolute;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#FFE5E5;
+  }
+  
+  li {
+   float:left;
+  }
+  
+  li a {
+    display: block;
+    color:black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color:#FF9B9B;
+  }
+  .button{
+    background-color:pink;
+    border-radius:15px;
+    border: none;
+    width:65px;
+
+    height:30px;
+  }
+  
+  .button1{
+    background-color: #FFE5E5;
+    border-radius:15px;
+    width:65px;
+    
+
+    height:30px;
+  }
+  .button1:hover{
+    background-color:#FF9B9B;
+  }
+  .button:hover{
+    background-color:#CD6688;
+  }
+  .footer{
+    background-color:#FFE5E5;
+  }
+  .foot{
+    text-align: center;
+    padding: 14px 16px;
+
+  }
+  .l1{
+    color:#3876BF;
+    padding-top: 10px;
+    font-family: "Nunito Sans", sans-serif;
+  }
+  .l2{
+    color:#CD6688;
+    padding-top: 10px;
+    font-family: "Nunito Sans", sans-serif;
+  }
+  .l3{
+    color:orange;
+    padding-top: 10px;
+    font-family: "Nunito Sans", sans-serif;
+  }
+  .vl1 {
+    border-left: 1px solid grey;
+    height: 50px;
+    margin-left: 30px;
+  }
+  .vl2 {
+    border-left: 1px solid grey;
+    height: 50px;
+    margin-left: 30px;
+  }
