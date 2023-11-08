@@ -1,0 +1,144 @@
+body{
+    background-color:#ACB1D6;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-family: "Nunito Sans", sans-serif;
+}
+
+.bigbox{
+    
+
+    background-size: 70%;
+    background-image: url('girl-with-glasses-holds-laptop_274222-24332.avif');
+    border-radius: 5px;
+    background-repeat: no-repeat;
+    background-position:right;
+    display:flex;
+    background-color: #abafba;
+    /* background-image: linear-gradient(to right, white, #DBDFEA); */
+    height: 500px;
+    margin-top: 45px;
+    
+      
+
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ECF0F1;
+    border-radius: 5px;
+  
+    
+  }
+  .button{
+    background-color:#F5A962;
+    color:white;
+    border-radius:15px;
+    border: none;
+    width:100px;
+
+    height:30px;
+    font-size:xx-small;
+  }
+  
+  .text{
+    font-size: 33px;
+      margin-left: 65px;
+      margin-top: 150px;
+      position:absolute;
+  }
+  .text1{
+    margin-left: 65px;
+    margin-top: 150px;
+    position:absolute;
+  }
+  
+  li {
+   float:inline-start;
+  }
+  li a {
+    display: block;
+    color:black;
+    
+    padding: 14px 16px;
+    text-decoration: none;
+    
+  }
+  .good a:hover{
+    border-bottom: 3px solid #F5A962;
+     color: #F5A962;
+
+  }
+  .button1{
+    background-color: black;
+    color:white;
+    font-size: xx-small;
+    padding-top: 8px;
+    padding-left: 12px;
+    padding-right:12px;
+    padding-bottom: 8px;
+    border-radius: 2px;
+  }
+  .fa {
+    padding: 7px;
+    font-size: 3px;
+    width: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius:500px;
+  }
+  
+
+  .fa-linkedin {
+    background: white;
+    color: orange;
+  }
+  .fa-instagram {
+    background: white;
+    color: orange;
+  }
+  .fa-google {
+    background: white;
+    color: orange;
+  }
+  .fa-youtube {
+    background: white;
+    color: orange;
+  }
+   /* .image{  
+    height:fit-content;
+    width:2px;
+  }*/
+  .footer{
+    background-color:white;
+  }
+  .foot{
+    text-align: center;
+    padding: 14px 16px;
+
+  }
+  .l1{
+    color:black;
+    padding-top: 10px;
+    font-family: "Nunito Sans", sans-serif;
+  }
+  
+  .l3{
+    color:black;
+    padding-top: 10px;
+    font-family: "Nunito Sans", sans-serif;
+  }
+  .vl1 {
+    border-left: 1px solid grey;
+    height: 50px;
+    margin-left: 30px;
+  }
+  .vl2 {
+    border-left: 1px solid grey;
+    height: 50px;
+    margin-left: 30px;
+  }
